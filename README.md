@@ -6,7 +6,8 @@ I'm learning Python from basics to advanced. This repo contains my coding exerci
 
 # 📌 Topics Covered
 
-Hello World
+Hello SEHAR
+Arithmetic Operations
   
 
 # 🎯 Goal
