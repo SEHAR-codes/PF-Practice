@@ -9,6 +9,11 @@ I'm learning Python from basics to advanced. This repo contains my coding exerci
 Hello SEHAR
 
 Arithmetic Operations
+
+condition statements 
+
+match case 
+
   
 
 # 🎯 Goal
