@@ -1,6 +1,6 @@
 #### 1. leap_year.py - Leap Year Checker 
 **What it does:** User se ek year leta hai aur check karta hai ke wo Leap Year hai ya nahi.  
-**Logic Used:** Pure Nested if-else + Modulo `%` operator.  
+**Logic Used:** Pure Nested if-else + Modulo % operator.  
 **Rule:** Ek year leap hota hai agar: 
 1.  % 400 == 0 ho, YA 
 2.  % 4 == 0 ho lekin % 100 != 0 ho.  
