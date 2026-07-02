@@ -1,4 +1,5 @@
 # discount_calculator.py - Discount based on Age + Membership
+
 age = int(input("Enter your age: "))
 member_input = input("Are you a member? yes/no: ")
 is_member = True if member_input == "yes" else False
