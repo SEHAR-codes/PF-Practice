@@ -9,13 +9,13 @@
 
 
 #### 2. discount_calculator.py - Age + Membership Discount 
-**What it does:** User ki `age` aur `membership status` le ke total discount % batata hai.  
-**Logic Used:** `Ladder if-elif-else` for 3 age slabs + `Nested if` for member check.  
+**What it does:** User ki age aur membership status le ke total discount % batata hai.  
+**Logic Used:** Ladder if-elif-else for 3 age slabs + Nested if for member check.  
 **Discount Slabs:** 
-- Child `< 18` = 20% + 5% if member = 25% total
-- Senior `>= 60` = 30% + 5% if member = 35% total  
-- Adult `else` = 10% + 5% if member = 15% total
-**Example:** Age `65`, Member `True` → Output `Total discount: 35%`
+- Child < 18 = 20% + 5% if member = 25% total
+- Senior >= 60 = 30% + 5% if member = 35% total  
+- Adult else = 10% + 5% if member = 15% total
+**Example:** Age 65, Member True Output total discount: 35%
 
 
 
