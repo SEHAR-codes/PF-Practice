@@ -1,4 +1,4 @@
-# Program 3: Temperature Alert System
+#Program 3: Temperature Alert System
 temperature = 38
 unit = "C" # C for Celsius, F for Fahrenheit
 
