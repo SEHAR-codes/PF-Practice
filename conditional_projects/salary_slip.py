@@ -15,7 +15,6 @@ if B_salary > 25000:
     tax = B_salary * 10 / 100
 else:
     tax = 0
-
 G_salary = B_salary + DA + HRA
 total_deduction = PF + tax
 N_salary = G_salary - total_deduction
