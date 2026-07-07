@@ -36,3 +36,26 @@
 2.  Daily Limit Check  withdrawal_amount <= (daily_limit - daily_withdrawn)? Nahi to Daily limit exceeded!
 4.  Denomination Check: withdrawal_amount % 100 == 0? Nahi to Enter multiples of 100
 **Example:** Balance 5000, Withdraw 3000 → Output Transaction Successful! Remaining Balance: 2000
+
+#### 5. Profit & Loss Calculator
+1. Start the program.
+2. Show the title **"Profit & Loss Calculator"**.
+3. Ask the user to enter the **cost price** (the price at which the item was bought).
+4. Ask the user to enter the **selling price** (the price at which the item was sold).
+5. Compare the selling price with the cost price.
+6. If the selling price is **higher** than the cost price:
+   * Find the profit by subtracting the cost price from the selling price.
+   * Calculate the profit percentage.
+   * Show the profit amount and the profit percentage.
+7. If the cost price is **higher** than the selling price:
+   * Find the loss by subtracting the selling price from the cost price.
+   * Calculate the loss percentage.
+   * Show the loss amount and the loss percentage.
+8. If both prices are **equal**:
+   * Show the message **"No profit, no loss."**
+9. End the program.
+
+
+
+
+
