@@ -13,7 +13,6 @@ print("4. JPY (Japanese Yen)")
 print("-" * 50)
 
 choice = int(input("Enter your choice (1-4): "))
-
 if choice == 1:
     converted = inr / 83.50
     print(f"INR{inr:.2f} = {converted:.2f} USD")
