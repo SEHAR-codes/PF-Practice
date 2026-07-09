@@ -12,7 +12,9 @@ Arithmetic Operations
 
 condition statements 
 
-match case 
+match case
+
+while loop
 
   
 
