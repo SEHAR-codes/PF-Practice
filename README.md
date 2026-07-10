@@ -16,6 +16,8 @@ match case
 
 while loop
 
+For loop
+
   
 
 # 🎯 Goal
