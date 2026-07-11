@@ -54,7 +54,6 @@
    * Show the message **"No profit, no loss."**
 
 
-
 ##### 6. Currency Converter
 1. Display the title **"Currency Converter"**.
 2. Ask the user to enter an amount in **Indian Rupees (INR)**.
