@@ -72,9 +72,3 @@
    * If the user chooses **4**, convert the INR amount to **Japanese Yen (JPY)** using the given exchange rate and display the converted amount.
 6. Also display the exchange rate that was used for the conversion.
 7. If the user enters any number other than **1, 2, 3, or 4**, display the message **"Invalid choice!"**
-
-
-
-
-
-
