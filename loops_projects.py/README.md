@@ -25,3 +25,19 @@
 * else: – Runs if no positive numbers were entered.
 * print(...)– Displays a message if no positive numbers were entered.
 
+### **3. Factor Finder Program**
+
+* Takes a positive number as input.
+* Starts checking from **1** up to the entered number.
+* Finds numbers that divide the input without a remainder.
+* Prints all the factors of the number.
+* Ends after checking all numbers.
+
+### **4. Password Checker Program**
+
+* Stores the correct password.
+* Allows the user **3 attempts** to enter the password.
+* Checks if the entered password is correct.
+* Grants access if the password is correct.
+* Shows an error message for incorrect passwords.
+* Locks the account after 3 unsuccessful attempts.
