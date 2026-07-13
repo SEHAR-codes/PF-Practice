@@ -41,3 +41,16 @@
 * Grants access if the password is correct.
 * Shows an error message for incorrect passwords.
 * Locks the account after 3 unsuccessful attempts.
+
+### **5. Prime number checker**
+
+1. num = 97 stores the number to be checked.
+2. If num <= 1, it is **not a prime number**.
+3. If num == 2, it is **a prime number**.
+4. Otherwise, assume the number is prime by setting is_prime = True.
+5. Use a for loop to check divisibility from 2 to the **square root** of the number.
+6. If the number is divisible by any value, set is_prime = False, display the divisor, and stop the loop.
+7. After the loop:
+
+   * If is_prime is True, print that the number is **PRIME**.
+   * Otherwise, print that the number is **NOT prime**.
