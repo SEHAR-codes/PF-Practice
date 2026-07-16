@@ -54,3 +54,13 @@
 
    * If is_prime is True, print that the number is **PRIME**.
    * Otherwise, print that the number is **NOT prime**.
+  
+### **6. multiplication tables from 1 to 5.**
+* The first loop runs from 1 to 5.
+* The second loop runs from 1 to 10.
+* Each table is printed one by one.
+* It multiplies the current number with numbers from 1 to 10.
+* The result is displayed in the format `number x number = result`.
+* A blank line is printed after each table.
+* The program prints the multiplication tables from 1 to 5.
+
