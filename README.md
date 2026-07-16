@@ -1,24 +1,24 @@
 # 🐍 Python Practice Repository 
 
-Welcome to my Python Practice Repository! 👋
+* Welcome to my Python Practice Repository! 👋
 
 I'm learning Python from basics to advanced. This repo contains my coding exercises and practice programs.
 
 # 📌 Topics Covered
 
-Hello SEHAR
+* Hello SEHAR
 
-Arithmetic Operations
+* Arithmetic Operations
 
-condition statements 
+* condition statements 
 
-match case
+* match case
 
-while loop
+* while loop
 
-For loop
+* For loop
 
-  
+* nested loops
 
 # 🎯 Goal
 
