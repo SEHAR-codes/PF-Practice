@@ -10,15 +10,17 @@ I'm learning Python from basics to advanced. This repo contains my coding exerci
 
 * Arithmetic Operations
 
-* condition statements 
+* Condition statements 
 
-* match case
+* Match case
 
-* while loop
+* While loop
 
 * For loop
 
-* nested loops
+* Nested loops
+
+* Functions
 
 # 🎯 Goal
 
