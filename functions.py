@@ -52,3 +52,16 @@ def is_even(num):
         return False 
 print(f"Is 4 even? {is_even(4)}") 
 print(f"Is 7 even? {is_even(7)}") 
+    
+
+
+#Question: Write a function that asks the user for two numbers, adds them, and returns the result. Then use it in a program. 
+
+def get_and_add(): 
+    num_1 = float(input("Enter first number: ")) 
+    num_2 = float(input("Enter second number: ")) 
+    return num_1 + num_2 
+print("Let's add two numbers!") 
+result = get_and_add()
+print(f"The sum is: {result}")
+    
