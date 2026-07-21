@@ -2,7 +2,7 @@
 
 * Welcome to my Python Practice Repository! 👋
 
-*I'm learning Python from basics to advanced. This repo contains my coding exercises and practice programs.
+* I'm learning Python from basics to advanced. This repo contains my coding exercises and practice programs.
 
 # 📌 Topics Covered
 
