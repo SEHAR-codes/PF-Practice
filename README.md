@@ -24,6 +24,8 @@
 
 * string
 
+* 
+
 # 🎯 Goal
 
 To build a strong foundation in Python and practice daily coding.
